@@ -113,7 +113,7 @@ h6 {
 }
 
 /*Make my badges shake slightly on scroll*/
-img:hover {
+img#mephoto:hover {
   animation: shake 0.5s;
   animation-iteration-count: infinite;
 }
