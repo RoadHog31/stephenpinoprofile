@@ -90,7 +90,7 @@ h6 {
   /* Remove outline */
   background-color: grey;
   /* Set a background color */
-  color: black;
+  color: rgb(130, 150, 240);
   /* Text color */
   cursor: pointer;
   /* Add a mouse pointer on hover */
