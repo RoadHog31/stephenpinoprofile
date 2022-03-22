@@ -233,3 +233,7 @@ img#mephoto:hover {
   border-style: solid;
 }
 
+#test {
+  font-size: 0;
+}
+
