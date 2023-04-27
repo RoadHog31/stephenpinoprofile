@@ -190,8 +190,6 @@ img#mephoto:hover {
 }
 
 
-
-
 * {
   box-sizing: border-box;
 }
@@ -235,5 +233,18 @@ img#mephoto:hover {
 
 #test {
   font-size: 0;
+}
+
+/*
+  ========================================
+ Project List images 
+  ========================================
+*/
+.portImage {
+  border: solid 5px transparent;
+}
+.portImage:hover {
+  border: solid 10px;
+  border-color: rgba(76, 0, 253, 0.384);
 }
 
